@@ -22,8 +22,8 @@ __Нетология__ (2024-2025 г.), курс "Android-разработчик
 6. [Промышленная разработка под Android](https://github.com/netology-code/andin-homeworks/blob/master/README.md#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-android)
 7. [Продвинутая разработка под Android](https://github.com/netology-code/andad-homeworks/blob/master/README.md#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-android)
 
-Домашние задания представляли собой работу над основным проектом, у которого поэтапно добавлялся и расширялся функционал до его [финала](https://github.com/SergeyShmatok/-FeedPosts-.git).
+Домашние задания представляли собой работу над основным проектом, у которого поэтапно добавлялся и расширялся функционал – до его [финала](https://github.com/SergeyShmatok/-FeedPosts-.git).
 
-( [Смотреть](https://github.com/SergeyShmatok/Certificates/tree/37b0b3cdb3efda3bc783ddb286cb777d4369da5c/Android-dev%20doc) сертификаты )
+[ [Смотреть](https://github.com/SergeyShmatok/Certificates/tree/37b0b3cdb3efda3bc783ddb286cb777d4369da5c/Android-dev%20doc) сертификаты ]
 
 - 🔭 Сейчас я работаю над этой страницей.

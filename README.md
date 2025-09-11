@@ -8,8 +8,9 @@ __Ссылка__: https://github.com/SergeyShmatok/Certificates.git
 _________
 
 
-
 __Нетология__ (2024-2025 г.), курс "Android-разработчик с нуля".
+
+[Смотреть подтверждающие документы](https://github.com/SergeyShmatok/Certificates/tree/82a9763e73910253af71bc9c89335be7a1c050d3/Android-dev%20doc)
 
 #### Структура учебного курса:
 1. [Основы Java](https://github.com/SergeyShmatok/Certificates/blob/main/Program%20and%20homework/Java.pdf)

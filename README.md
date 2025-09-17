@@ -13,7 +13,7 @@ __Нетология__ (2024-2025 г.), курс "Android-разработчик
 <!-- [Смотреть подтверждающие документы](https://github.com/SergeyShmatok/Certificates/tree/82a9763e73910253af71bc9c89335be7a1c050d3/Android-dev%20doc) -->
 <!-- $\color{green}{test}$ -->
 
-#### Структура учебного курса:
+#### Структура курса:
 1. [Основы Java](https://github.com/netology-code/java-homeworks/blob/master/README.md#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-java)
 2. [Основы ООП](https://github.com/netology-code/java-homeworks/blob/master/README.md#%D0%B1%D0%BB%D0%BE%D0%BA-3-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BE%D0%BE%D0%BF)
 3. [Git — система контроля версий](https://github.com/netology-code/git-2-homeworks/blob/main/README.md)
